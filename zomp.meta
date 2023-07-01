@@ -12,6 +12,6 @@
 {package_id,{"otpr","cowlib",{2,12,1}}}.
 {prefix,none}.
 {repo_url,"https://github.com/zxq9/cowlib"}.
-{tags,[]}.
+{tags,["http2","websockets","web","http","protocol","http1","spdy"]}.
 {type,lib}.
 {ws_url,"https://ninenines.eu/docs/en/cowlib/2.12/manual/"}.

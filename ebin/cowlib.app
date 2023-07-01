@@ -1,5 +1,5 @@
 {application,cowlib,
-             [{description,"Support library for manipulating Web protocols."},
+             [{description,"Cowlib is a support library for manipulating Web protocols."},
               {vsn,"2.12.1"},
               {modules,[cow_base64url,cow_cookie,cow_date,cow_hpack,cow_http,
                         cow_http2,cow_http2_machine,cow_http_hd,
