@@ -13,6 +13,7 @@
 %% OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 -module(cow_http).
+-vsn("2.12.1").
 
 -export([parse_request_line/1]).
 -export([parse_status_line/1]).

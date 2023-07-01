@@ -17,6 +17,7 @@
 %% should never be indexed is currently lost.
 
 -module(cow_hpack).
+-vsn("2.12.1").
 -dialyzer(no_improper_lists).
 
 -export([init/0]).

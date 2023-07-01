@@ -13,6 +13,7 @@
 %% OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 -module(cow_date).
+-vsn("2.12.1").
 
 -export([parse_date/1]).
 -export([rfc1123/1]).

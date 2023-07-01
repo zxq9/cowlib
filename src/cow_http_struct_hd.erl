@@ -29,6 +29,7 @@
 %% Boolean: boolean()
 
 -module(cow_http_struct_hd).
+-vsn("2.12.1").
 
 -export([parse_dictionary/1]).
 -export([parse_item/1]).

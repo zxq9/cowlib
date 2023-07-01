@@ -1,0 +1,17 @@
+{a_email,"essen@ninenines.eu"}.
+{author,"Loic Hoguin"}.
+{c_email,"essen@ninenines.eu"}.
+{copyright,"Loic Hoguin"}.
+{deps,[]}.
+{desc,"Cowlib is a support library for manipulating Web protocols."}.
+{file_exts,[]}.
+{key_name,none}.
+{license,skip}.
+{modules,[]}.
+{name,"Cowlib"}.
+{package_id,{"otpr","cowlib",{2,12,1}}}.
+{prefix,none}.
+{repo_url,"https://github.com/zxq9/cowlib"}.
+{tags,[]}.
+{type,lib}.
+{ws_url,"https://ninenines.eu/docs/en/cowlib/2.12/manual/"}.

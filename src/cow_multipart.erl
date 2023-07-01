@@ -13,6 +13,7 @@
 %% OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 -module(cow_multipart).
+-vsn("2.12.1").
 
 %% Parsing.
 -export([parse_headers/2]).

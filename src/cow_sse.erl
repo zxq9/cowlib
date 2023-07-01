@@ -13,6 +13,7 @@
 %% OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 -module(cow_sse).
+-vsn("2.12.1").
 
 -export([init/0]).
 -export([parse/2]).

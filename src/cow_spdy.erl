@@ -13,6 +13,7 @@
 %% OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 -module(cow_spdy).
+-vsn("2.12.1").
 
 %% Zstream.
 -export([deflate_init/0]).

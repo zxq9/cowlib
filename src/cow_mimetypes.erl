@@ -13,6 +13,7 @@
 %% OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 -module(cow_mimetypes).
+-vsn("2.12.1").
 
 -export([all/1]).
 -export([web/1]).

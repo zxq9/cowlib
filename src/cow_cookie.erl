@@ -13,6 +13,7 @@
 %% OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 -module(cow_cookie).
+-vsn("2.12.1").
 
 -export([parse_cookie/1]).
 -export([parse_set_cookie/1]).

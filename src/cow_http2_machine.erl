@@ -13,6 +13,7 @@
 %% OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 -module(cow_http2_machine).
+-vsn("2.12.1").
 
 -export([init/2]).
 -export([init_stream/2]).

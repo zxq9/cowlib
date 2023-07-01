@@ -14,6 +14,7 @@
 
 -module(cow_link).
 -compile({no_auto_import, [link/1]}).
+-vsn("2.12.1").
 
 -export([parse_link/1]).
 -export([resolve_link/2]).

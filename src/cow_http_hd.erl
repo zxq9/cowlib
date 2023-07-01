@@ -13,6 +13,7 @@
 %% OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 -module(cow_http_hd).
+-vsn("2.12.1").
 
 %% Functions are ordered by header name, with the parse
 %% function before the build function.

@@ -13,6 +13,7 @@
 %% OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 -module(cow_http_te).
+-vsn("2.12.1").
 
 %% Identity.
 -export([stream_identity/2]).

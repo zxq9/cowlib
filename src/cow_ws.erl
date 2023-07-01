@@ -13,6 +13,7 @@
 %% OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 -module(cow_ws).
+-vsn("2.12.1").
 
 -export([key/0]).
 -export([encode_key/1]).

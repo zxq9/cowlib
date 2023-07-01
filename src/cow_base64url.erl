@@ -17,6 +17,7 @@
 %% must be given to reproduce this variant exactly. The default
 %% will leave the padding characters.
 -module(cow_base64url).
+-vsn("2.12.1").
 
 -export([decode/1]).
 -export([decode/2]).

@@ -16,6 +16,7 @@
 %% as defined by RFC6570.
 
 -module(cow_uri_template).
+-vsn("2.12.1").
 
 -export([parse/1]).
 -export([expand/2]).
